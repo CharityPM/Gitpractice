@@ -1,0 +1,12 @@
+print("hello world")
+print("Im Charity")
+print("for practice")
+print("almost there")
+print("yes yes")
+print("not yet")
+<<<<<<< HEAD:practice.py
+print("mmmh mmh")
+=======
+>>>>>>> 340a1442a97fbc24be22e831b3c0f8a18cf82a52
+print("heey heey"
+>>>>>>> 657486a32fb3f4fdbe268af0c899d03f26fa4201:add extra
